@@ -1,7 +1,4 @@
----
-  tags: survey, kids  
-  type: survey
----
+
 
 ## Great job today!
 
