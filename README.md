@@ -10,3 +10,5 @@ Let us know what you think of the class so far, so that we can make it as awesom
 
 
 
+
+<a href='https://learn.co/lessons/hs-mid-course-survey' data-visibility='hidden'>View this lesson on Learn.co</a>
