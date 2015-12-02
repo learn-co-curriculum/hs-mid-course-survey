@@ -8,9 +8,4 @@ Let us know what you think of the class so far, so that we can make it as awesom
 <br>
 <br>
 
-
-
-
-<a href='https://learn.co/lessons/hs-mid-course-survey' data-visibility='hidden'>View this lesson on Learn.co</a>
-
 <a href='https://learn.co/lessons/hs-mid-course-survey' data-visibility='hidden'>View this lesson on Learn.co</a>
